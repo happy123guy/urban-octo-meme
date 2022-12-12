@@ -1,0 +1,33 @@
+.heading{
+    font-size: 30px;
+    padding: 10px;
+    background-color: darkslategrey;
+    color:aliceblue;
+    margin:7px;
+    border-radius: 20px;
+}
+
+#note{
+    font-size: 20px;
+    color:lightcoral;
+}
+
+body{
+    background-image:url("background-doodle.jpg");
+}
+
+.copyright_footer{
+    bottom: 0;
+    position: fixed;
+    font-size: 20px;
+    margin: 3px;
+    text-align: center;
+    background-color: #feffa8;
+    padding-left: 598px;
+    padding-right: 598px;
+    margin-bottom: 0px;
+}
+
+canvas{
+border-radius: 20px;
+}
